@@ -10,7 +10,7 @@ https://arxiv.org/abs/1612.03277
 
 ----Notes-----------------------
 
-This work is part of the Data Curation Foundry project stream, D2D CRC. Currently we only released the SDKs and we will release the APIs and source code (under the Apache 2.0 license) as soon as we get the authorization from D2D CRC.
+Our work on basic curation operations - such as extracting keyword, and named entities such as Persons, Locations, Organizations, Companies etc - is part of the Data Curation Foundry project stream, D2D CRC. We plan to release the APIs and source code (as open source) as soon as we get the authorization from D2D CRC.
 
 ----Contributors-----------------------
 
