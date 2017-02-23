@@ -7,8 +7,13 @@ We identify and implement a set of curation APIs and make them available (as an 
 
 Notice: 
 
-We encourage researchers/developers to cite our paper if you have used our APIs, libraries, tools or datasets. You can find the technical report and user guide from the following link:
+We encourage researchers/developers to cite our paper if you have used our APIs, libraries, tools or datasets. 
 
+* Beheshti, Tabebordbar, Benatallah, Nouri: "On Automating Basic Data Curation Tasks", WWW 2017, Perth Australia.
+* Beheshti, Tabebordbar, Benatallah, Nouri: "Data Curation APIs", CoRR abs/1612.03277 (2016).
+
+
+You can find the technical report and user guide from the following link:
 https://arxiv.org/abs/1612.03277
 
 
