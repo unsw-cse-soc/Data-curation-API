@@ -16,6 +16,9 @@ We encourage researchers/developers to cite our paper if you have used our APIs,
 You can find the technical report and user guide from the following link:
 https://arxiv.org/abs/1612.03277
 
+Curation Services Rest APIs:
+http://d2dcrc.cse.unsw.edu.au:9091/ExtractionAPI-0.0.1-SNAPSHOT/
+
 
 
 ----License-----------------------
